@@ -1,13 +1,13 @@
 {	
 	"prefix": "!", 
 	"defaultSessionName": "ROZZ", 
-	"zeksKey": "apikey",
+	"zeksKey": "CpGSLymOQy9KfTKgQZr9eDSYqqR",
 	"autoRead": false,
 	"self": false, 
 	"maxLimit": 25,
 	"ownerList": ["6281387601389@s.whatsapp.net"],
 	"apiUrl": "https://api.zeks.me",
-    "imgUrl": "https://api.zeks.me/logo.jpg",
+    "imgUrl": "https://i.postimg.cc/bNGc2SDb/IMG-20220315-WA0033.jpg",
 	"pack": "Zall ganz",
 	"author": "ROZZ-BOT"
 }
