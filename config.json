@@ -1,13 +1,13 @@
 {	
-	"prefix": "multi", 
-	"defaultSessionName": "bot", 
+	"prefix": "!", 
+	"defaultSessionName": "ROZZ", 
 	"zeksKey": "apikey",
-	"autoRead": true,
+	"autoRead": false,
 	"self": false, 
-	"maxLimit": 30,
-	"ownerList": ["628xxxxxx@s.whatsapp.net", "6282xxxxxx@s.whatsapp.net"],
+	"maxLimit": 25,
+	"ownerList": ["6281387601389@s.whatsapp.net"],
 	"apiUrl": "https://api.zeks.me",
     "imgUrl": "https://api.zeks.me/logo.jpg",
-	"pack": "Sticker",
-	"author": "BOT"
+	"pack": "Zall ganz",
+	"author": "ROZZ-BOT"
 }
